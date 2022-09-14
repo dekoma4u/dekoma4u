@@ -10,6 +10,6 @@
 - 📫 Reach me on Linkedln at [Linkedln](https://www.linkedin.com/in/dekoma4u/) or [Twitter](https://www.twitter.com/dekoma4u)
 - 😄 He/him
 - ⚡ Fun fact: football, table tennis, music
-- ![Github stats](https://github-readme-stats.vercel.app/api?username=dekoma4u)
--  Click [GitHub Repository](https://github.com/dekoma4u?tab=repositories) to view my public repositories.
+![Github stats](https://github-readme-stats.vercel.app/api?username=dekoma4u)
+## !Click [GitHub Repository](https://github.com/dekoma4u?tab=repositories) to view my public repositories.
 <h2 align="center">I'm glad you visited. I hope you are kind with me for a journey of a thousand miles starts with a step 👋</h2>
