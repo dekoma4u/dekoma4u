@@ -1,6 +1,5 @@
 ### Welcome to my profile 👋
-
-Here are some ideas to get you started:
+🤔 Code with a smile 🤔
 
 - 🔭 I have some amazing projects on my repository. Take a glance with a smile.
 - 🌱 Since there is never enough, I keep learning to continue building solutions.
