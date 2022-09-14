@@ -1,6 +1,6 @@
 
-<p align="center">
-## Welcome to my profile 👋
+<p align="centre">
+### Welcome to my profile 👋
 </p>
 🤔 Code with a smile 🤔
 
