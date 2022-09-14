@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to my profile 👋</h1>
-🤔 Code with a smile 🤔
+
+### 🤔 Code with a smile 🤔
 
 - 🔭 I have some amazing projects on my repository. Take a glance with a smile.
 - 🌱 Since there is never enough, I keep learning to continue building solutions.
@@ -11,4 +12,3 @@
 - ⚡ Fun fact: football, table tennis, music
 - ![Github stats](https://github-readme-stats.vercel.app/api?username=dekoma4u)
 - ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
