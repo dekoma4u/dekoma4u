@@ -1,8 +1,8 @@
-### Welcome to my profile 👋
-<p align="center">
-🤔 Code with a smile 🤔
-</p>
 
+<p align="center">
+## Welcome to my profile 👋
+</p>
+🤔 Code with a smile 🤔
 
 - 🔭 I have some amazing projects on my repository. Take a glance with a smile.
 - 🌱 Since there is never enough, I keep learning to continue building solutions.
