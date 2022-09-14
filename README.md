@@ -1,6 +1,5 @@
 ### Welcome to my profile 👋
 
-<!--
 **dekoma4u/dekoma4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +16,4 @@ Here are some ideas to get you started:
 - ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=dekoma4u)
 - ![counter](https://[YourEndpoint].m.pipedream.net)
 - ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
--->
+
