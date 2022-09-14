@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 Reach me on Linkedln at [Linkedln](https://www.linkedin.com/in/dekoma4u/) or [Twitter](https://www.twitter.com/dekoma4u)
 - 😄 He/him
 - ⚡ Fun fact: football, table tennis, music
+- ![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
 -->
