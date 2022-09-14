@@ -1,7 +1,5 @@
 ### Welcome to my profile 👋
 
-**dekoma4u/dekoma4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I have some amazing projects on my repository. Take a glance with a smile.
