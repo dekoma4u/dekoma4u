@@ -1,7 +1,5 @@
+## Welcome to my profile 👋
 
-<p align="centre">
-### Welcome to my profile 👋
-</p>
 🤔 Code with a smile 🤔
 
 - 🔭 I have some amazing projects on my repository. Take a glance with a smile.
