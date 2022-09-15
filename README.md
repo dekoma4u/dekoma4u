@@ -14,4 +14,4 @@
 ## Click [GitHub Repository](https://github.com/dekoma4u?tab=repositories) to view my public repositories.
 >**I'm glad you visited. I hope you are kind with me for a journey of a thousand miles starts with a step👋** 
 
-![My skill-sets](7-Essential-Data-Analyst-Skills-scaled (1).jpeg)
+![My skill-sets](7-Essential-Data-Analyst-Skills-scaled.jpeg)
