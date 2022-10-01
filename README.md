@@ -15,4 +15,3 @@
 >**I'm glad you visited. I hope you are kind with me for a journey of a thousand miles starts with a step👋** 
 
 ![My skill-sets](image_readme.jpeg)
-(https://github.com/dekoma4u/Data_Visualisation_with_PowerBI_record_projects/blob/master/Lab8%20-%20All%20Exercise%20Solution/Images/Sales%20Report.PNG).
