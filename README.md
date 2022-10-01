@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile 👋</h1>
+[<h1 align="center">Welcome to my profile 👋</h1>
 
 ### 🤔 Code with a smile 🤔
 
@@ -11,7 +11,8 @@
 - 😄 He/him
 - ⚡ Fun fact: football, table tennis, music \
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dekoma4u)
-## Click [GitHub Repository](https://github.com/dekoma4u?tab=repositories) to view my public repositories.
+## Click [GitHub Repository](https://github.com/dekoma4u?tab=repositories) to view my public repositories. I recently brought to the public an old and local project on Business intelligence and analytics with PowerBI. Feel free to give me some feedbacks. It will mean a lot to me. 
 >**I'm glad you visited. I hope you are kind with me for a journey of a thousand miles starts with a step👋** 
 
 ![My skill-sets](image_readme.jpeg)
+](https://github.com/dekoma4u/Data_Visualisation_with_PowerBI_record_projects/blob/master/Lab8%20-%20All%20Exercise%20Solution/Images/Sales%20Report.PNG).
