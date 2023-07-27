@@ -7,7 +7,7 @@
 - 👯 I’m open to collaborations. Bring it on!
 - 🤔 I currently work on data analytics/science related projects. 
 - 💬 Free free to ask me any question but basically coding related.
-- 📫 Reach me on Linkedln at [Linkedln](https://www.linkedin.com/in/dekoma4u/) or [Twitter](https://www.twitter.com/dekoma4u)
+- 📫 Reach me on Linkedln at [Linkedln](https://www.linkedin.com/in/dekoma4u/) or [Twitter](https://www.twitter.com/dekoma4u) or visit my Portfolio @ [My Portfolio](https://www.ugconsultings.com/my-profile)
 - 😄 He/him
 - ⚡ Fun fact: football, table tennis, music \
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dekoma4u)
